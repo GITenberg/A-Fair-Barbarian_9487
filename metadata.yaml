@@ -1,0 +1,45 @@
+_repo: A-Fair-Barbarian_9487
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Hodgson, Frances Eliza
+    - Townesend, Frances Eliza Hodgson Burnett
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: Slowbridge had been shaken to its foundations. It may as well be explained,
+  however, at the outset, that it would not take much of a sensation to give Slowbridge
+  a great shock. In the first place, Slowbridge was not used to sensations, and was
+  used to going on the even and respectable tenor of its way, regarding the outside
+  world with private distrust, if not with open disfavor. The new mills had been a
+  trial to Slowbridge, - a sore trial. On being told of the owners' plan of building
+  them, old Lady Theobald, who was the corner-stone of the social edifice of Slowbridge,
+  was said, by a spectator, to have turned deathly pale with rage; and, on the first
+  day of their being opened in working order, she had taken to her bed, and remained
+  shut up in her darkened room for a week, refusing to see anybody, and even going
+  so far as to send a scathing message to the curate of St. James, who called in fear
+  and trembling, because he was afraid to stay away. "With mills and mill-hands,"
+  her ladyship announced to Mr. Laurence, the mill-owner, when chance first threw
+  them together, "with mills and mill-hands come murder, massacre, and mob law."
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9487'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PS'
+- !lcsh 'Villages -- England -- Fiction'
+- !lcsh 'Americans -- England -- Fiction'
+- !lcsh 'Love stories'
+- GITenberg
+title: A Fair Barbarian
+url: http://www.gutenberg.org/ebooks/9487
